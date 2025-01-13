@@ -1,11 +1,13 @@
-description:    Tool for creating Bezier behavior with matrix nodes and a pinch attribute on each Bezier controller.
+Description:
+Tool for creating Bezier behavior with matrix nodes and a pinch attribute on each Bezier controller.
 
-usage:
-                1 - Copy bezierMatrix.py in your maya script folder
+Usage:
 
-                2 - Select your bezier controllers
+1 - Copy bezierMatrix.py in your maya script folder
 
-                3 - Run this code :
+2 - Select your bezier controllers
 
-                import bezierMatrix
-                bezierMatrix.mainProc()
+3 - Run this code :
+
+import bezierMatrix
+bezierMatrix.mainProc()
