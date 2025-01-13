@@ -1,6 +1,6 @@
 Description:
 
-Tool for creating Bezier behavior with matrix nodes and a pinch attribute on each Bezier controller.
+Tool for creating Bézier behavior with matrix nodes and a pinch attribute on each Bézier controller.
 
 Usage:
 
