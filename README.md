@@ -1,5 +1,5 @@
 Description:
-Tool for creating Bezier behavior with matrix nodes and a pinch attribute on each Bezier controller.
+>>> Tool for creating Bezier behavior with matrix nodes and a pinch attribute on each Bezier controller.
 
 Usage:
 
@@ -10,6 +10,7 @@ Usage:
 3 - Run this code :
 
 import bezierMatrix
+
 bezierMatrix.mainProc()
 
-You can also open pre-build Maya scene bezierMatrix.mb
+>>> You can also open pre-build Maya scene bezierMatrix.mb
