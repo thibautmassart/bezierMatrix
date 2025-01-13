@@ -10,5 +10,6 @@ Usage:
 3 - Run this code :
 
 import bezierMatrix
-
 bezierMatrix.mainProc()
+
+You can also open pre-build Maya scene bezierMatrix.mb
